@@ -1,12 +1,13 @@
 {
-  "manifest_version": 1,
-  "name": "Cinematics",
+  "id": "cinematic-controller",
+  "name": "Cinematic Controller",
   "version": "1.0.0",
-  "extensions": [
+  "manifest_version": 1,
+  "plugins": [
     {
       "id": "cinematic-core",
-      "type": "script",
-      "path": "index.js"
+      "name": "Cinematic Core",
+      "url": "index.html"
     }
   ]
 }
