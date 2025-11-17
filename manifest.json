@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Cinematics",
+  "version": "1.0.0",
+  "extensions": [
+    {
+      "id": "cinematic-core",
+      "type": "script",
+      "path": "index.js"
+    }
+  ]
+}
